@@ -4,3 +4,7 @@ PyQt4 is a toolkit for creating GUI applications. It is a blending of Python pro
 
 ##Lessons
 ###1. [Introduction](https://github.com/snazrul1/PyRevolution/blob/master/PyQt4/1.%20Introduction.ipynb)
+###2. Signals and Events
+
+##Author
+Syed Sadat Nazrul
