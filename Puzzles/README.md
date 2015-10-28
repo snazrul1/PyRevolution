@@ -1,3 +1,5 @@
+#Puzzles
+
 Fun puzzles and how to solve them.. with Python!
 
 1. [King and Poison Wine](https://github.com/snazrul1/PyRevolution/blob/master/Puzzles/King_and_Poisoned_Wine.ipynb)
