@@ -1,4 +1,4 @@
-# PyRevolution
+#PyRevolution
 
 Python tutorials and puzzles to share with the world!
 
@@ -11,4 +11,5 @@ Python can be a lot of fun and there are a bunch of brain teasers to solve if yo
 
 Stay tuned for more libraries and tutorials!
 
-###Author: Syed (Sadat) Nazrul
+##Author 
+Syed Sadat Nazrul
