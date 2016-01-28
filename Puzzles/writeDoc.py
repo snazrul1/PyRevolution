@@ -1,5 +1,7 @@
 __author__ = 'snazrul'
 
+import sys
+
 def getDoc(script)
 	"""
 	Extracts function description from Python script
