@@ -12,4 +12,4 @@ Python can be a lot of fun and there are a bunch of brain teasers to solve if yo
 Stay tuned for more libraries and tutorials! Dont forget to follow us on [YouTube](https://www.youtube.com/c/Pyrevolution?sub_confirmation=1) and [Facebook](https://www.facebook.com/pyrevolution1/)!!!
 
 ##Author 
-Syed Sadat Nazrul
+[Syed Sadat Nazrul](https://www.linkedin.com/in/syednazrul)
