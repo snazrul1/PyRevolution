@@ -17,7 +17,7 @@ Mac |  [Video](https://www.youtube.com/watch?v=B6d5LrA8bNE&t=9s) |  [Installing 
 Ubuntu |  [Video](https://www.youtube.com/watch?v=jo4RMiM-ihs) |  [Installing Anaconda on Ubuntu](https://medium.com/@GalarnykMichael/install-python-on-ubuntu-anaconda-65623042cb5a#.yg6bg11gj)
 
 ##More
-Stay tuned for more libraries and tutorials! Dont forget to follow us on [YouTube](https://www.youtube.com/c/Pyrevolution?sub_confirmation=1))!!!
+Stay tuned for more libraries and tutorials! Dont forget to follow us on [YouTube](https://www.youtube.com/c/Pyrevolution?sub_confirmation=1)!!!
 
 ##Author 
 [Syed Sadat Nazrul](https://www.linkedin.com/in/syednazrul)
